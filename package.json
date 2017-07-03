@@ -1,0 +1,24 @@
+{
+  "name": "robots_mongo",
+  "version": "1.0.0",
+  "description": "Robots with Mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RagyHutch/robots-mongo.git"
+  },
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RagyHutch/robots-mongo/issues"
+  },
+  "homepage": "https://github.com/RagyHutch/robots-mongo#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.29",
+    "mustache-express": "^1.2.5"
+  }
+}
